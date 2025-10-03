@@ -48,8 +48,7 @@ Code and data used in the manuscript "Flow evolution and solute dispersion in th
   shoreline_dye.mat - Dye trial shoreline data
 
 8_model/
-  alpha2_2.4607.mat - Antuono model results corresponding to model presented in the manuscript,
-  Antuono2010.m - Code to solve Antuono2010 swash zone model,
+  Antuono2010.m - Code to solve Antuono2010 swash zone model
 
 9_paper_figures/
   Fig_Dye/
