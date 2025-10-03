@@ -32,8 +32,8 @@ Code and data used in the manuscript "Flow evolution and solute dispersion in th
   ea_cycles.m - Compute individual wave cycles,
   ensemble_average_sensors.m - Ensemble average depth and velocity data from sensors and SPTV point measurements,
   ensemble_avg_frames.m - Use shoreline and still water line to cycle align frames,
-  Velocimeters_Smooth_A00_C03_T01.mat - ADV data,
   WG_locs.mat - Location of wave gauges in camera FOV
+  Velocimeters_Smooth_A00_C03_T01.mat - ADV data.  File is too large for gitHub but can be downloaded from doi:10.17603/DS2-VY34-AD7
 
 6_depth_field/
   depth_field.m - Interpolate depth field in the swash zone from local sensors,
